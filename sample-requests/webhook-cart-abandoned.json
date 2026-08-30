@@ -1,0 +1,1 @@
+{"event":"cart.abandoned","session_id":"test-001","merchant_id":"merchant_demo","cart_items":[{"sku_id":"SKU-HP-X1","name":"HP Headphones X1","category":"electronics","price":1500,"quantity":1,"cost_price":800}],"cart_value":1500,"customer":{"customer_id":"cust-1","email":"demo@test.com"}}
